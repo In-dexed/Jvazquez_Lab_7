@@ -14,9 +14,9 @@ function alertFunction() {
   alert("John Vazquez: " + txt);
 }
 
-
-
-
-
-
 window.addEventListener('load', init);
+
+
+
+
+
